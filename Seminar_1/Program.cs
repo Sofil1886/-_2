@@ -115,4 +115,4 @@
 System.Console.WriteLine("Введите число:");
 
 int N = Convert.ToInt32(Console.ReadLine()); // int.Parse() || Convert.ToInt32
-System.Console.Write(N%10);
+System.Console.Write(N%2);
