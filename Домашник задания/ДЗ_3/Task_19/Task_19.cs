@@ -4,9 +4,6 @@
 // ; 12821 -> да
 // ; 23432 -> да
 
-
-
-
 System.Console.WriteLine("Ввведите 5-значное число:");
 int number = Convert.ToInt32(Console.ReadLine());
 int lenNumber = number.ToString().Length;
