@@ -7,17 +7,44 @@
 
 
 
-int number = System.Console.WriteLine("Ввведите 5-значное число:");
-numberLength = number.ToString().Length;
-// string[] array = numberLength;
+System.Console.WriteLine("Ввведите 5-значное число:");
+int number = Convert.ToInt32(Console.ReadLine());
+int lenNumber = number.ToString().Length;
+int[] digits = new int[lenNumber];
 
-// if (numberLenghth != 5)
-// {
-//     System.Console.WriteLine("Вы ввели не пятизначное число");
-// }
-// else
-// {
+if (lenNumber != 5)
+{
+    System.Console.WriteLine("Вы не ввели 5-значное число");
+}
+else
+{
+    for (int i = lenNumber - 1; i >= 0; i -= 1)
+    {
+        int digit = number % 10;
+        digits[i] = digit;
+        number /= 10;
+    }
 
-// }
+    int TrueCounter = 0;
+    for (int num = 0; num < lenNumber; num += 1)
+    {
+        if (digits[num] == digits[lenNumber - 1 - num])
+        {
+            TrueCounter += 1;
+        }
+        else
+        {
+            break;
+        }
+    }
 
-System.Console.WriteLine(numberLength);
+    if (TrueCounter == lenNumber)
+    {
+        System.Console.WriteLine("Да");
+    }
+    else
+    {
+        System.Console.WriteLine("Нет");
+    }
+
+}
