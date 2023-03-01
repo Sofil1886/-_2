@@ -1,0 +1,15 @@
+C:\Users\ivans\OneDrive\Рабочий стол\C# курс\Seminars C#\Домашник задания\ДЗ_8\58\obj\Debug\net6.0\58.csproj.AssemblyReference.cache
+C:\Users\ivans\OneDrive\Рабочий стол\C# курс\Seminars C#\Домашник задания\ДЗ_8\58\obj\Debug\net6.0\58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivans\OneDrive\Рабочий стол\C# курс\Seminars C#\Домашник задания\ДЗ_8\58\obj\Debug\net6.0\58.AssemblyInfoInputs.cache
+C:\Users\ivans\OneDrive\Рабочий стол\C# курс\Seminars C#\Домашник задания\ДЗ_8\58\obj\Debug\net6.0\58.AssemblyInfo.cs
+C:\Users\ivans\OneDrive\Рабочий стол\C# курс\Seminars C#\Домашник задания\ДЗ_8\58\obj\Debug\net6.0\58.csproj.CoreCompileInputs.cache
+C:\Users\ivans\OneDrive\Рабочий стол\C# курс\Seminars C#\Домашник задания\ДЗ_8\58\bin\Debug\net6.0\58.exe
+C:\Users\ivans\OneDrive\Рабочий стол\C# курс\Seminars C#\Домашник задания\ДЗ_8\58\bin\Debug\net6.0\58.deps.json
+C:\Users\ivans\OneDrive\Рабочий стол\C# курс\Seminars C#\Домашник задания\ДЗ_8\58\bin\Debug\net6.0\58.runtimeconfig.json
+C:\Users\ivans\OneDrive\Рабочий стол\C# курс\Seminars C#\Домашник задания\ДЗ_8\58\bin\Debug\net6.0\58.dll
+C:\Users\ivans\OneDrive\Рабочий стол\C# курс\Seminars C#\Домашник задания\ДЗ_8\58\bin\Debug\net6.0\58.pdb
+C:\Users\ivans\OneDrive\Рабочий стол\C# курс\Seminars C#\Домашник задания\ДЗ_8\58\obj\Debug\net6.0\58.dll
+C:\Users\ivans\OneDrive\Рабочий стол\C# курс\Seminars C#\Домашник задания\ДЗ_8\58\obj\Debug\net6.0\refint\58.dll
+C:\Users\ivans\OneDrive\Рабочий стол\C# курс\Seminars C#\Домашник задания\ДЗ_8\58\obj\Debug\net6.0\58.pdb
+C:\Users\ivans\OneDrive\Рабочий стол\C# курс\Seminars C#\Домашник задания\ДЗ_8\58\obj\Debug\net6.0\58.genruntimeconfig.cache
+C:\Users\ivans\OneDrive\Рабочий стол\C# курс\Seminars C#\Домашник задания\ДЗ_8\58\obj\Debug\net6.0\ref\58.dll
